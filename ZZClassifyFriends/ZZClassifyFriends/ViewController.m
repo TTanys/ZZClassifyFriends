@@ -46,10 +46,9 @@ static NSString *subCellIdent = @"ZZ_CELL_SUB";
     _groupTitArr = [NSMutableArray arrayWithObjects:@"兄弟",@"家人",@"大学室友",@"高中同学",@"老乡",@"朋友", nil];
     _groupArr0 = [NSMutableArray arrayWithObjects:
                   [FriendModel friendModelWithHeadImg:@"0" name:@"德德" info:@"慧德学霸，校草，iOS技术大牛，身体强壮，天赋异禀" net:@"4G" open:NO],
-                  [FriendModel friendModelWithHeadImg:@"1" name:@"黑皮" info:@"慧德学霸，校草，iOS技术大牛，身体强壮，天赋异禀" net:@"4G" open:NO],
-                  [FriendModel friendModelWithHeadImg:@"2" name:@"唐儿子" info:@"慧德学霸，校草，iOS技术大牛，身体强壮，天赋异禀" net:@"4G" open:NO],
-                  [FriendModel friendModelWithHeadImg:@"3" name:@"熊儿子" info:@"慧德学霸，校草，iOS技术大牛，身体强壮，天赋异禀" net:@"4G" open:NO],
-                  [FriendModel friendModelWithHeadImg:@"4" name:@"老子" info:@"慧德学霸，校草，iOS技术大牛，身体强壮，天赋异禀" net:@"4G" open:NO], nil];
+                  [FriendModel friendModelWithHeadImg:@"1" name:@"黑皮" info:@"高岭才子，移动端架构大神，大长腿，哈子狂躁" net:@"4G" open:NO],
+                  [FriendModel friendModelWithHeadImg:@"2" name:@"唐儿子" info:@"迷你版艾弗森，corss over狂热者，爱喷垃圾话" net:@"4G" open:NO],
+                  [FriendModel friendModelWithHeadImg:@"3" name:@"熊儿子" info:@"伪詹姆斯，团队篮球中的毒瘤，吹牛逼，技术一般" net:@"4G" open:NO], nil];
     _groupArr1 = [NSMutableArray arrayWithObjects:
                   [FriendModel friendModelWithHeadImg:@"5" name:@"段誉" info:@"慧德学霸，校草，iOS技术大牛，身体强壮，天赋异禀" net:@"4G" open:NO],
                   [FriendModel friendModelWithHeadImg:@"6" name:@"乔峰" info:@"慧德学霸，校草，iOS技术大牛，身体强壮，天赋异禀" net:@"4G" open:NO],
